@@ -4,13 +4,13 @@ This project implements a lightweight Git-style version control system for large
 
 Features
 
-• Initialize a repository (init): upload CSV, choose tree type (AVL, B-Tree, Red-Black Tree), select key column, and store each tree node as a separate file.
-• Commit changes (commit "message"): saves a new version.
-• Branch management (branch, checkout, delete-branch, branches, current-branch).
-• View history (log).
-• Merge branches (merge source target).
-• Save and load repository state (save, load).
-• Visualize structure (visualize-tree branch_name).
+Initialize a repository (init): upload CSV, choose tree type (AVL, B-Tree, Red-Black Tree), select key column, and store each tree node as a separate file.
+Commit changes (commit "message"): saves a new version.
+Branch management (branch, checkout, delete-branch, branches, current-branch).
+View history (log).
+Merge branches (merge source target).
+Save and load repository state (save, load).
+Visualize structure (visualize-tree branch_name).
 
 Tree & File Handling
 
